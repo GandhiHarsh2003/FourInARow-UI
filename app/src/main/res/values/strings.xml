@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name = "instructions">There is a 6x6 board and you have to get a Four in a row.
+        There are 3 ways you can get four in a row. First way is horizontally, another way is
+        vertically and finally diagonally. Do you think you can win?</string>
+</resources>
